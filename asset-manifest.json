@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/GTFapp/static/css/main.9909fce9.chunk.css",
+    "main.css": "/GTFapp/static/css/main.f63c1ba7.chunk.css",
     "main.js": "/GTFapp/static/js/main.96502b7b.chunk.js",
     "main.js.map": "/GTFapp/static/js/main.96502b7b.chunk.js.map",
     "runtime-main.js": "/GTFapp/static/js/runtime-main.624bfac7.js",
@@ -9,10 +9,10 @@
     "static/js/2.a74a9315.chunk.js": "/GTFapp/static/js/2.a74a9315.chunk.js",
     "static/js/2.a74a9315.chunk.js.map": "/GTFapp/static/js/2.a74a9315.chunk.js.map",
     "index.html": "/GTFapp/index.html",
-    "precache-manifest.ddb8d12e4a45c0c72040efbaf59e4cd0.js": "/GTFapp/precache-manifest.ddb8d12e4a45c0c72040efbaf59e4cd0.js",
+    "precache-manifest.06a560401952af7feb333592528ba340.js": "/GTFapp/precache-manifest.06a560401952af7feb333592528ba340.js",
     "service-worker.js": "/GTFapp/service-worker.js",
     "static/css/2.74189dbb.chunk.css.map": "/GTFapp/static/css/2.74189dbb.chunk.css.map",
-    "static/css/main.9909fce9.chunk.css.map": "/GTFapp/static/css/main.9909fce9.chunk.css.map",
+    "static/css/main.f63c1ba7.chunk.css.map": "/GTFapp/static/css/main.f63c1ba7.chunk.css.map",
     "static/js/2.a74a9315.chunk.js.LICENSE.txt": "/GTFapp/static/js/2.a74a9315.chunk.js.LICENSE.txt",
     "static/media/login.png": "/GTFapp/static/media/login.ba305fec.png",
     "static/media/p1.jpg": "/GTFapp/static/media/p1.c4b6029c.jpg"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.624bfac7.js",
     "static/css/2.74189dbb.chunk.css",
     "static/js/2.a74a9315.chunk.js",
-    "static/css/main.9909fce9.chunk.css",
+    "static/css/main.f63c1ba7.chunk.css",
     "static/js/main.96502b7b.chunk.js"
   ]
 }

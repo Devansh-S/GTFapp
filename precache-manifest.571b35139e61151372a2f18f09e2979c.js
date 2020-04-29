@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "620acc545f5c437e8e4e02e8193f4f50",
+    "revision": "2f19c6d57ec2614ebde1a398e52fb183",
     "url": "/GTFapp/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/GTFapp/static/css/2.74189dbb.chunk.css"
   },
   {
-    "revision": "cb5fa51ab3aeeb9a5ad4",
-    "url": "/GTFapp/static/css/main.bfd69fd5.chunk.css"
+    "revision": "39eb5a6f4323055b04d1",
+    "url": "/GTFapp/static/css/main.d45a5375.chunk.css"
   },
   {
     "revision": "480fe3dad88048cf13ba",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/GTFapp/static/js/2.7716a993.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cb5fa51ab3aeeb9a5ad4",
+    "revision": "39eb5a6f4323055b04d1",
     "url": "/GTFapp/static/js/main.2b36b10f.chunk.js"
   },
   {

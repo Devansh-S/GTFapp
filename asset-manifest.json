@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "./static/css/main.9909fce9.chunk.css",
-    "main.js": "./static/js/main.5390452b.chunk.js",
-    "main.js.map": "./static/js/main.5390452b.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.63959e21.js",
-    "runtime-main.js.map": "./static/js/runtime-main.63959e21.js.map",
-    "static/css/2.74189dbb.chunk.css": "./static/css/2.74189dbb.chunk.css",
-    "static/js/2.77d0e7b4.chunk.js": "./static/js/2.77d0e7b4.chunk.js",
-    "static/js/2.77d0e7b4.chunk.js.map": "./static/js/2.77d0e7b4.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.2c374978e7522bd1aa12d5de73f270f7.js": "./precache-manifest.2c374978e7522bd1aa12d5de73f270f7.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/2.74189dbb.chunk.css.map": "./static/css/2.74189dbb.chunk.css.map",
-    "static/css/main.9909fce9.chunk.css.map": "./static/css/main.9909fce9.chunk.css.map",
-    "static/js/2.77d0e7b4.chunk.js.LICENSE.txt": "./static/js/2.77d0e7b4.chunk.js.LICENSE.txt",
-    "static/media/login.png": "./static/media/login.ba305fec.png",
-    "static/media/p1.jpg": "./static/media/p1.c4b6029c.jpg"
+    "main.css": "/GTFapp/static/css/main.9909fce9.chunk.css",
+    "main.js": "/GTFapp/static/js/main.96502b7b.chunk.js",
+    "main.js.map": "/GTFapp/static/js/main.96502b7b.chunk.js.map",
+    "runtime-main.js": "/GTFapp/static/js/runtime-main.624bfac7.js",
+    "runtime-main.js.map": "/GTFapp/static/js/runtime-main.624bfac7.js.map",
+    "static/css/2.74189dbb.chunk.css": "/GTFapp/static/css/2.74189dbb.chunk.css",
+    "static/js/2.a74a9315.chunk.js": "/GTFapp/static/js/2.a74a9315.chunk.js",
+    "static/js/2.a74a9315.chunk.js.map": "/GTFapp/static/js/2.a74a9315.chunk.js.map",
+    "index.html": "/GTFapp/index.html",
+    "precache-manifest.ddb8d12e4a45c0c72040efbaf59e4cd0.js": "/GTFapp/precache-manifest.ddb8d12e4a45c0c72040efbaf59e4cd0.js",
+    "service-worker.js": "/GTFapp/service-worker.js",
+    "static/css/2.74189dbb.chunk.css.map": "/GTFapp/static/css/2.74189dbb.chunk.css.map",
+    "static/css/main.9909fce9.chunk.css.map": "/GTFapp/static/css/main.9909fce9.chunk.css.map",
+    "static/js/2.a74a9315.chunk.js.LICENSE.txt": "/GTFapp/static/js/2.a74a9315.chunk.js.LICENSE.txt",
+    "static/media/login.png": "/GTFapp/static/media/login.ba305fec.png",
+    "static/media/p1.jpg": "/GTFapp/static/media/p1.c4b6029c.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.63959e21.js",
+    "static/js/runtime-main.624bfac7.js",
     "static/css/2.74189dbb.chunk.css",
-    "static/js/2.77d0e7b4.chunk.js",
+    "static/js/2.a74a9315.chunk.js",
     "static/css/main.9909fce9.chunk.css",
-    "static/js/main.5390452b.chunk.js"
+    "static/js/main.96502b7b.chunk.js"
   ]
 }
